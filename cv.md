@@ -22,3 +22,11 @@ inputText.addEventListener('input', function(){
     const c = a * b;
     console.log(c) 
 ```
+## Education
+* General average
+    - School
+* Higher
+    - BNTU, design engineer
+## Language
+* Russian
+* English (technical)
